@@ -1,6 +1,6 @@
 ## Olá, eu sou o Mateus 👋
 
-💻 Estudante de Técnico em Desenvolvimento de Sistemas.
+💻 Estudante Técnico em Desenvolvimento de Sistemas.
 
 Atualmente estou estudando:
 - 🐍 Python
