@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, eu sou o Mateus 👋
 
-<!--
-**MateuzL/MateuzL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Técnico em Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+Atualmente estou estudando:
+- 🐍 Python
+- 🌐 Git e GitHub
+- 📚 Lógica de Programação
+- 🚀 Desenvolvimento Full Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateuzL&show_icons=true&theme=dark&locale=pt-br&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateuzL&layout=compact&theme=dark&locale=pt-br&custom_title=Tecnologias%20mais%20utilizadas&langs_count=8"/>
+</p>
