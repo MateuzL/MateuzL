@@ -3,8 +3,8 @@
 💻 Estudante Técnico em Desenvolvimento de Sistemas.
 
 Atualmente estou estudando:
-- 🐍 Python
-- 🌐 Git e GitHub
+- 🐍 Python, POO
+- 🌐 Banco de Dados
 - 📚 Lógica de Programação
 - 🚀 Desenvolvimento Full Stack
 
