@@ -5,5 +5,5 @@
 Atualmente estou estudando:
 - 🐍 Python, POO
 - 🌐 Banco de Dados
-- 📚 Lógica de Programação
+- 📚 Desenvolvimento WEB - HTML, CSS e JAVASCRIPT
 - 🚀 Desenvolvimento Full Stack
